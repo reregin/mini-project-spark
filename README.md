@@ -7,6 +7,9 @@ This project is a **mini project** as a **Machine Learning Engineer for SPARK**.
 - **Features Used**: `sqft_living` (square footage of living area)
 - **Target Variable**: `price` (house price in USD)
 
+## 🎥 Presentation Video
+A presentation video explaining the process can be found [here](https://drive.google.com/file/d/1hFiO68DR-nUwR6Oe3YvcMQD0JhCxA7ec/view?usp=drive_link). The explanation is in Indonesian.
+
 ## 📊 Model Evaluation
 - The model is evaluated using **Mean Squared Error (MSE)** to measure prediction accuracy.
 
