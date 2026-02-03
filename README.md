@@ -14,6 +14,5 @@ A presentation video explaining the process can be found [here](https://drive.go
 - The model is evaluated using **Mean Squared Error (MSE)** to measure prediction accuracy.
 
 ---
-📧 **Author**: Regina George  
-🔗 **GitHub**: [Your GitHub Profile](https://github.com/reregin)
+📧 **Author**: Regina George
 
